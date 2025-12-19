@@ -48,7 +48,7 @@ const projects: Projects[] = [
   {
     name: "urql",
     Component: UrqlBadge,
-    link: "https://commerce.nearform.com/open-source/victory/",
+    link: "https://commerce.nearform.com/open-source/urql/",
     description:
       "The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.",
   },
